@@ -1,0 +1,37 @@
+[
+    {
+        "patientID": "sigir-20142",
+        "eligibleTrials": [
+            {
+                "trialID": "NCT00665366",
+                "trialName": "Study to Evaluate the Efficacy and Safety of Aripiprazole Administered With Lithium or Valproate Over 12 Weeks in the Treatment of Mania in Bipolar I Disorder",
+                "score": 0.0,
+                "eligibilityCriteriaMet": "No"
+            },
+            {
+                "trialID": "NCT02110251",
+                "trialName": "Exercise Therapy With Risk Factor Management and Life Style Coaching After Vascular Intervention for Patients With Peripheral Arterial Disease",
+                "score": 0.0,
+                "eligibilityCriteriaMet": "No"
+            },
+            {
+                "trialID": "NCT02490241",
+                "trialName": "Lithium Therapy: Understanding Mothers, Metabolism and Mood",
+                "score": -0.80000000004,
+                "eligibilityCriteriaMet": "No"
+            },
+            {
+                "trialID": "NCT00188279",
+                "trialName": "Minimum Dose Computed Tomography of the Thorax for Follow-up in Patients With Resected Lung Carcinoma",
+                "score": -1.0,
+                "eligibilityCriteriaMet": "No"
+            },
+            {
+                "trialID": "NCT02073188",
+                "trialName": "Comparative Study of a Smartphone-Linked Self-Monitoring System Versus a Traditional One for Improving Metabolic Control and Compliance to Self-Monitoring of Blood Glucose",
+                "score": -1.6666666667777779,
+                "eligibilityCriteriaMet": "No"
+            }
+        ]
+    }
+]

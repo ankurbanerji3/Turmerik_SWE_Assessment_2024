@@ -1,0 +1,82 @@
+{
+    "sigir-20141": {
+        "raw": "A 58-year-old African-American woman presents to the ER with episodic pressing/burning anterior chest pain that began two days earlier for the first time in her life. The pain started while she was walking, radiates to the back, and is accompanied by nausea, diaphoresis and mild dyspnea, but is not increased on inspiration. The latest episode of pain ended half an hour prior to her arrival. She is known to have hypertension and obesity. She denies smoking, diabetes, hypercholesterolemia, or a family history of heart disease. She currently takes no medications. Physical examination is normal. The EKG shows nonspecific changes.",
+        "gpt-4-turbo": {
+            "summary": "58-year-old African-American woman with episodic chest pain, hypertension, and obesity.",
+            "conditions": [
+                "chest pain",
+                "angina",
+                "acute coronary syndrome",
+                "myocardial ischemia",
+                "coronary artery disease",
+                "hypertension",
+                "obesity",
+                "cardiovascular disease",
+                "nausea",
+                "diaphoresis",
+                "dyspnea",
+                "EKG changes",
+                "non-ST elevation myocardial infarction",
+                "unstable angina",
+                "ischemic heart disease",
+                "atherosclerosis",
+                "cardiac risk factors",
+                "African-American cardiovascular health",
+                "women's heart health",
+                "exercise-induced chest pain",
+                "radiating chest pain",
+                "non-respiratory chest pain",
+                "episodic chest pain",
+                "chest pain with exertion",
+                "chest pain with nausea",
+                "chest pain with diaphoresis",
+                "chest pain with dyspnea",
+                "chest pain with normal physical exam",
+                "chest pain with nonspecific EKG changes",
+                "chest pain without family history of heart disease",
+                "chest pain without hypercholesterolemia",
+                "chest pain without diabetes"
+            ]
+        }
+    },
+    "sigir-20142": {
+        "raw": "An 8-year-old male presents in March to the ER with fever up to 39 C, dyspnea and cough for 2 days. He has just returned from a 5 day vacation in Colorado. Parents report that prior to the onset of fever and cough, he had loose stools. He denies upper respiratory tract symptoms. On examination he is in respiratory distress and has bronchial respiratory sounds on the left. A chest x-ray shows bilateral lung infiltrates.",
+        "gpt-4-turbo": {
+            "summary": "8-year-old male with fever, dyspnea, cough, and bilateral lung infiltrates, recently traveled to Colorado, with preceding loose stools.",
+            "conditions": [
+                "Pneumonia",
+                "Bilateral lung infiltrates",
+                "Respiratory distress",
+                "Fever",
+                "Cough",
+                "Dyspnea",
+                "Travel-related illness",
+                "Bronchial breath sounds",
+                "Loose stools",
+                "Pediatric respiratory infection",
+                "Community-acquired pneumonia",
+                "Viral pneumonia",
+                "Bacterial pneumonia",
+                "Atypical pneumonia",
+                "Pediatric fever",
+                "Acute respiratory infection",
+                "Lower respiratory tract infection",
+                "Pulmonary infiltrates",
+                "Pediatric dyspnea",
+                "Pediatric cough",
+                "Pediatric gastrointestinal symptoms",
+                "Travel history",
+                "Infectious disease",
+                "Pediatric infectious disease",
+                "Respiratory infection",
+                "Pediatric lung disease",
+                "Acute lung disease",
+                "Pediatric travel-related illness",
+                "Pediatric pulmonary infiltrates",
+                "Pediatric bronchial sounds",
+                "Pediatric respiratory distress",
+                "Pediatric acute illness"
+            ]
+        }
+    }
+}

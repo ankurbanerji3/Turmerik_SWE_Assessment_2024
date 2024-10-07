@@ -1,0 +1,63 @@
+[
+    {
+        "patient_id": "sigir-20142",
+        "patient": "An 8-year-old male presents in March to the ER with fever up to 39 C, dyspnea and cough for 2 days. He has just returned from a 5 day vacation in Colorado. Parents report that prior to the onset of fever and cough, he had loose stools. He denies upper respiratory tract symptoms. On examination he is in respiratory distress and has bronchial respiratory sounds on the left. A chest x-ray shows bilateral lung infiltrates.",
+        "trials": [
+            {
+                "brief_title": "Study to Evaluate the Efficacy and Safety of Aripiprazole Administered With Lithium or Valproate Over 12 Weeks in the Treatment of Mania in Bipolar I Disorder",
+                "phase": "Phase 3",
+                "drugs": "['Aripiprazole', 'Placebo', 'Lithium', 'Valproate']",
+                "drugs_list": [
+                    "Aripiprazole",
+                    "Placebo",
+                    "Lithium",
+                    "Valproate"
+                ],
+                "diseases": "['Bipolar Disorder Mania']",
+                "diseases_list": [
+                    "Bipolar Disorder Mania"
+                ],
+                "enrollment": "493.0",
+                "inclusion_criteria": "Key inclusion criteria: \n\n Clinical diagnosis of bipolar I disorder mania, manic or mixed episode, with or without psychotic features \n\n Current ongoing lithium or valproate treatment with the possibility of benefiting, based on the investigator's clinical judgment, from adjunctive treatment with aripiprazole \n\n Therapeutic serum levels of lithium or valproate and a Young Mania Rating Total Score of 16 or higher at screening and baseline \n\n Participants taking current lithium or valproate treatment combined with antipsychotic medication other than aripiprazole are acceptable, provided that the other antipsychotic medication is washed out at least 3 days prior to the blood draw for therapeutic plasma levels of lithium and valproate determination. Long-acting antipsychotics must be washed out prior to entering the double-blind treatment. \n\n Key ",
+                "exclusion_criteria": ": \n\n Women of childbearing potential who are unwilling or unable to use an acceptable method to avoid pregnancy for the entire study period and for up to 4 weeks after the last dose of investigational product \n\n A diagnosis of delirium, dementia, amnesia or other cognitive disorder, or a psychotic disorder \n\n Current diagnosis of delirium, dementia, a cognitive disorder (ie, amnesia), or a psychotic disorder (ie, schizophrenia or schizoaffective disorder) \n\n Current diagnosis of bipolar II disorder, bipolar disorder not otherwise specified, or any other primary psychiatric disorder other than bipolar I disorder mania \n\n Thyroid pathology \n\n Demonstrated cocaine abuse or dependence within the past 3 months prior to screening. \n\n History of neuroleptic malignant syndrome from antipsychotic agents \n\n Manic symptoms that investigator considers refractory to treatment \n\n Previous nonresponsive (by investigator judgment) to aripiprazole for manic symptoms \n\n Significant risk of suicide based on history, mental status exam, or investigator judgment.",
+                "brief_summary": "The purpose of the study is to determine whether aripiprazole provides additional clinical benefit to patients with Bipolar I disorder when combined with lithium or valproate over 12 weeks.",
+                "NCTID": "NCT00665366"
+            },
+            {
+                "brief_title": "Minimum Dose Computed Tomography of the Thorax for Follow-up in Patients With Resected Lung Carcinoma",
+                "phase": "Phase 2",
+                "drugs": "['Minimum Dose Computed Tomography (MnDCT) scan']",
+                "drugs_list": [
+                    "Minimum Dose Computed Tomography (MnDCT) scan"
+                ],
+                "diseases": "['Non-small Cell Lung Cancer']",
+                "diseases_list": [
+                    "Non-small Cell Lung Cancer"
+                ],
+                "enrollment": "311.0",
+                "inclusion_criteria": "inclusion criteria: \n\n lung cancer patients undergoing resection with intent to cure \n\n ",
+                "exclusion_criteria": ": \n\n age < 18 years",
+                "brief_summary": "This study is designed to help decide whether a CAT scan performed at a very low dose of radiation (Minimum dose CT scan) is better than a Chest X-Ray in detecting recurrence of lung cancer in the chest (after surgery).",
+                "NCTID": "NCT00188279"
+            },
+            {
+                "brief_title": "Exercise Therapy With Risk Factor Management and Life Style Coaching After Vascular Intervention for Patients With Peripheral Arterial Disease",
+                "phase": "",
+                "drugs": "['Supervised Exercise Therapy']",
+                "drugs_list": [
+                    "Supervised Exercise Therapy"
+                ],
+                "diseases": "['Peripheral Arterial Disease, Rutherford 4 and 5 With Possibility to Improve Vascularization']",
+                "diseases_list": [
+                    "Peripheral Arterial Disease",
+                    "Rutherford 4 and 5 With Possibility to Improve Vascularization"
+                ],
+                "enrollment": "14.0",
+                "inclusion_criteria": "inclusion criteria: \n\n Patients with peripheral arterial disease Rutherford stage 4 and 5, where it is possible to improve the vascularization of the affected leg with the help of an endovascular and / or open surgical vascular intervention. \n\n Patients with both legs are affected, but the most severe leg does not exceed stage 5. \n\n ",
+                "exclusion_criteria": ": \n\n Severe cardiopulmonary comorbidity (NYHA 4) and previous amputations of lower leg or thigh. \n\n Patients with limited amputation of the toes can participate. \n\n Insufficient understanding of the Dutch language. \n\n No physiotherapy insurance.",
+                "brief_summary": "Patients with peripheral arterial disease with symptoms of critical ischemia or reduced tissue loss have a very high mortality and morbidity rate. So far, treatment strategies focused on the preservation of life and limb by an open surgical or endovascular revascularization, together with cardiovascular risk management and pain relief. Important modifiable factors related to mortality and morbidity are not covered in the current national and international guidelines. This study investigates the effects on mobility, mortality and quality of life with supplementation of the standard treatment of critical limb ischemia with supervised exercise therapy. Also a reduction of cardiovascular risk by intensive risk factor management and lifestyle coaching will be taken in to account. The supervised exercise therapy will take place under the supervision of a trained physiotherapist.",
+                "NCTID": "NCT02110251"
+            }
+        ]
+    }
+]
