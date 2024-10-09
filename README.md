@@ -8,7 +8,7 @@ NOTE: I chose to work with a very small "sample dataset" (not the actual large d
 NOTE: Some unit test files may or may not pass. I've tested and successfully ran half of the unit tests but there are still some issues that I'm currenlty working on in attempts to pass all the unit tests.
 
 ----- Steps to run notebook -----
-Head over to 
+Head over to Code_Notebook.
 
 Prerequisites -->
 1. Run Cell 2 then 3 to generate the list of queries.json.
@@ -28,6 +28,8 @@ The final eligibility results will be stored in the json file "eligibility_resul
 
 
 ----- Steps to run the directory files -----
+Head over to Code_Driectory.
+
 Prerequisites -->
 1. Run the files generate_queries.py and generate_trial_info.py to generate queries.json and trial_info.json files.
 2. First step is to run the TrialGPT Retrieval phase to get a json containing the patients and the trials that are relevant according to keywords:
